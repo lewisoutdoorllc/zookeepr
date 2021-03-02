@@ -144,6 +144,17 @@
         "hungry"
       ],
       "id": "14"
+    },
+    {
+      "name": "cc",
+      "species": "cc",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious",
+        "loving"
+      ],
+      "id": "15"
     }
   ]
 }
